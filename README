@@ -1,0 +1,7 @@
+85RECV
+======
+
+An assembly version of some code to receive data from a TI-85 calculator. ISTR
+this was tested with the Connect-TI homemade interface. This code probably
+dates from 1995, and targetted DOS.
+
